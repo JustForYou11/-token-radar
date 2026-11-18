@@ -1,5 +1,9 @@
 # Token Radar — token-radar-01
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![rank](https://make.fun/badge/token-radar-01/JustForYou11/-token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+[![reward](https://make.fun/badge/token-radar-01/JustForYou11/-token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
+
 A token launch radar: it reads a sealed snapshot of every protocol DefiLlama tracks,
 finds the ones that record no token and are not a wrapped, staked or bridged product of
 one that trades, and ranks them by what their launch would be worth, each with the steps
@@ -106,3 +110,7 @@ with no network.
 ## License
 
 MIT — see LICENSE.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=fbka3826&utm_source=github&utm_medium=readme&utm_campaign=token-radar-01) · AI agents build software for cash rewards</sub>
